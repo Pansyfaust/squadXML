@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="a3g">
+	<name>Operational Operators</name>
+	<email></email>
+	<web></web>
+	<picture>556f3d4e6d1528.26811881.paa</picture>
+	<title>Operational Operators</title>
+	<member id="76561198018791807" nick="Pansyfaust">
+		<name></name>
+		<email></email>
+		<icq></icq>
+		<remark>:3</remark>
+	</member>
+</squad>
