@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
-<squad nick="a3g">
-	<name>Operational Operators</name>
+<squad nick="M">
+	<name>Murshun</name>
 	<email></email>
 	<web></web>
-	<picture>556f3d4e6d1528.26811881.paa</picture>
-	<title>Operational Operators</title>
+	<picture>mamizou.paa</picture>
+	<title>Arma without the drama</title>
 	<member id="76561198018791807" nick="Pansyfaust">
 		<name></name>
 		<email></email>
